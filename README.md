@@ -11,6 +11,6 @@ node server.js
 Run app:
 
 ```
-cd frontend
+cd client
 yarn start
 ```
